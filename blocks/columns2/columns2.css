@@ -1,0 +1,10 @@
+.columns2 > div {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(95, 99, 99);
+}
+
+.columns2 {
+  color: red;
+}
+
